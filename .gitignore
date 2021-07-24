@@ -1,0 +1,14 @@
+*.img
+*.png
+*.jpg
+*.webp
+*.js
+*.svg
+*.ttf
+*.woff
+*.eot
+*.woff2
+*.gif
+*.jfif
+images/
+Antalya/
